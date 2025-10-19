@@ -1,7 +1,7 @@
 # Assignment 7 – JavaScript Practice
 
 ## Overview
-This assignment (CS648 - Assignment 7) focuses on building core JavaScript skills through functions, arrays, conditionals, and events.
+This assignment focuses on building core JavaScript skills through functions, arrays, conditionals, and events.
 
 ---
 
